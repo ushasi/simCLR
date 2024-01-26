@@ -10,3 +10,5 @@ The following are some sample images from the SSL4EO-S12 RGB dataset.
 The following are some sample images from the Eurosat RGB dataset which have been used for learning the down-stream task of classification.
 
 <img src=AnnualCrop_2.jpg width="100"> <img src=Highway_165.jpg width="100"> <img src=Industrial_172.jpg width="100"> <img src=Residential_110.jpg width="100">
+
+The Google Colab (.ipynb) implementation of the same can be found in simCLR.ipynb file in this repository.
